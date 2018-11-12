@@ -1,6 +1,6 @@
-# AdvancedNodeStarter
+# Blogs
 
-Starting project for a course on Advanced Node @ Udemy
+This is a simple blog application which makes use of industry standard technologies and best practices.
 
 - Jest
   - Test Runner
